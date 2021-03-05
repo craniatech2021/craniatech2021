@@ -25,6 +25,14 @@ I'm a full-stack web & mobile developer. I love to build pages and learn more st
  👯 I’m open for collaboration
 ---
 
+### GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=craniatech2021&count_private=true&title_color=FD9047&text_color=0C2233&custom_title=CRANIA+TECH's+GitHub+Stats&show_icons=true" 
+/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craniatech2021&layout=compacte&title_color=FD9047&text_color=0C2233&icon_color=FD9047&bg_color=0C223&custom_title=CRANIA+TECH's+GitHub+Stats&show_icons=true" 
+/>
+
 <!--
 **craniatech2021/craniatech2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
