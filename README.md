@@ -24,6 +24,10 @@ I'm a full-stack web & mobile developer. I love to build pages and learn more st
 ---
  👯 I’m open for collaboration
 ---
+ 📫 How to reach me: `techcrania at gmail dot com`
+---
+ 😄 Pronouns: he/him
+---
 
 ### GitHub Stats
 
