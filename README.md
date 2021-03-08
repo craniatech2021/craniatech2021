@@ -15,7 +15,7 @@ I'm a full-stack web & mobile developer. I love to build pages and learn more st
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb"/>
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="jest"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="mongodb"/>
-
+  <img src="https://img.shields.io/badge/Language-%20Swift-DB4E02.svg?style=for-the-badge&logo=swift"/>
 
 ---
  🔭 I’m currently working on <a href=""> User-Admin-Page </a>
