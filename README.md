@@ -129,11 +129,7 @@
     </a> 
     <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg
-" alt="PostgreSQL" width="50" height="50"/></code> 
-    </a> 
+    </a>
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
     </a> 
