@@ -1,53 +1,180 @@
+<h1 align="center"> Hi there, welcome to my GitHub Page 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<h3 align="center">I'm a full-stack web & mobile developer. I love to build pages and learn more stuff on my free time and non-free time also.</h3>
 
-### Hi there, welcome to my GitHub Page 👋
-
-I'm a full-stack web & mobile developer. I love to build pages and learn more stuff on my free time and non-free time also.
----
-### What I do?
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white&style=for-the-badge" alt="Nodemon" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="jest"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Language-%20Swift-DB4E02.svg?style=for-the-badge&logo=swift"/>
+    <img src="https://komarev.com/ghpvc/?username=craniatech2021&label=Profile%20views&color=0e75b6&style=flat" alt="craniatech2021" />
+    <a href="https://github.com/craniatech2021/"><img src="https://img.shields.io/github/followers/craniatech2021?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/craniatech2021?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="mailto:techcrania@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Crania :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+    <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
+  </p>
 
----
- 🔭 I’m currently working on <a href=""> User-Admin-Page </a>
----
- 🌱 I’m currently learning postgresql, and django to improve more on my server-side stack.
----
- 👯 I’m open for collaboration
----
- 📫 How to reach me: `techcrania at gmail dot com`
----
- 😄 Pronouns: he/him
----
 
-### GitHub Stats
+<p align="left"> 
+<a href="https://twitter.com/CraniaTech" target="blank"><img src="https://img.shields.io/twitter/follow/CraniaTech?logo=twitter&style=for-the-badge" alt="CraniaTech" /></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-crania%20tech-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://craniatech2021.github.io/" target="_blank"><img src="https://img.shields.io/website?label=craniatech2021.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fcraniatech2021.github.io" alt="craniatech2021.github.io" /></a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=craniatech2021&count_private=true&title_color=FD9047&text_color=0C2233&custom_title=CRANIA+TECH's+GitHub+Stats&show_icons=true" 
-/>
+<hr>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craniatech2021&layout=compacte&title_color=FD9047&text_color=0C2233&icon_color=FD9047&bg_color=0C223&custom_title=CRANIA+TECH's+GitHub+Stats&show_icons=true" 
-/>
+<h3> 🧑 About me </h3>
 
-<!--
-**craniatech2021/craniatech2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [InstaPyBot](https://github.com/craniatech2021/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Everything 🤣**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/craniatech2021/](https://github.com/craniatech2021/)
+
+- 💬 Ask me about **Python,JavaScript,Node.Js**
+
+- 📫 How to reach me **techcrania@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/](https://www.linkedin.com/in/)
+
+- ⚡ Fun fact **I love to code**
+
+<h3> 🏆 Badges </h3>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+<h3 align="left"> 🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/CraniaTech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CraniaTech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="craniatech2021" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="craniatech2021" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craniatech2021" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">🌐 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://devdocs.io/c/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
+    </a>
+    <a href="https://devdocs.io/cpp/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.java.com/en/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
+    </a>
+    <a href="https://devdocs.io/html/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
+    </a>
+    <a href="https://devdocs.io/css/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.php.net/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.javascript.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="Type Script" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://nodejs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://www.npmjs.com/package/express" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://www.npmjs.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://redis.io/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://dart.dev/" target="_blank"> 
+        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
+    </a>
+    <a href="https://flutter.dev/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
+    </a>   
+    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://atom.io/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.vim.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.heroku.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://github.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://bitbucket.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://gitlab.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg
+" alt="PostgreSQL" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.nginx.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://postman.com" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://docker.com" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.android.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
+    </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.wordpress.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/></code> 
+    </a>
+</p>
+
+
+<h3 align="left"> 🧡 Support:</h3>
+<p><a href="https://buymeacoffee.com/craniatech2021"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="craniatech2021" /></a></p><br><br><br>
+
+<h3> ⚡ GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=craniatech2021&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="craniatech2021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craniatech2021&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="craniatech2021" height="195px"/></p>
+<br><br><br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark" alt="craniatech2021" /></p> -->
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark)
+
+<h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=craniatech2021&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
