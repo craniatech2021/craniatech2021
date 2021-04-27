@@ -24,17 +24,17 @@
 
 <h3> 🧑 About me </h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/craniatech2021/)
+<!-- - 🔭 I’m currently working on [InstaPyBot](https://github.com/craniatech2021/) -->
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/craniatech2021/](https://github.com/craniatech2021/)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/craniatech2021/](https://github.com/craniatech2021/) -->
 
 - 💬 Ask me about **Python,JavaScript,Node.Js**
 
 - 📫 How to reach me **techcrania@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/](https://www.linkedin.com/in/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/](https://www.linkedin.com/in/) -->
 
 - ⚡ Fun fact **I love to code**
 
