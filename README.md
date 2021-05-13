@@ -175,5 +175,5 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark)
 
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=craniatech2021&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<!-- <h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=craniatech2021&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" /> -->
