@@ -15,8 +15,8 @@
 
 <p align="left"> 
 <a href="https://twitter.com/CraniaTech" target="blank"><img src="https://img.shields.io/twitter/follow/CraniaTech?logo=twitter&style=for-the-badge" alt="CraniaTech" /></a>
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-crania%20tech-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://craniatech2021.github.io/" target="_blank"><img src="https://img.shields.io/website?label=craniatech2021.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fcraniatech2021.github.io" alt="craniatech2021.github.io" /></a>
+<a href="https://www.linkedin.com/company/software-developer-group/"><img src="https://img.shields.io/badge/-crania%20tech-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://craniatech2021.github.io/" target="_blank"><img src="https://img.shields.io/website?label=craniatech2021.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fcraniatech2021.github.io" alt="craniatech2021.github.io" /></a> -->
 </p>
 
 <hr>
