@@ -10,14 +10,13 @@
     <a href="mailto:techcrania@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Crania :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
     <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
-  </p>
+</p>
 
-
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://twitter.com/CraniaTech" target="blank"><img src="https://img.shields.io/twitter/follow/CraniaTech?logo=twitter&style=for-the-badge" alt="CraniaTech" /></a>
 <a href="https://www.linkedin.com/company/software-developer-group/"><img src="https://img.shields.io/badge/-crania%20tech-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<!-- <a href="https://craniatech2021.github.io/" target="_blank"><img src="https://img.shields.io/website?label=craniatech2021.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fcraniatech2021.github.io" alt="craniatech2021.github.io" /></a> -->
-</p>
+<a href="https://craniatech2021.github.io/" target="_blank"><img src="https://img.shields.io/website?label=craniatech2021.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fcraniatech2021.github.io" alt="craniatech2021.github.io" /></a>
+</p> -->
 
 <hr>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
