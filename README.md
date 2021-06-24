@@ -1,16 +1,16 @@
-<h1 align="center"> Hi there, welcome to my GitHub Page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <h1 align="center"> Hi there, welcome to my GitHub Page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1> -->
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<h3 align="center">I'm a full-stack web & mobile developer. I love to build pages and learn more stuff on my free time and non-free time also.</h3>
+<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/> -->
+<!-- <h3 align="center">I'm a full-stack web & mobile developer. I love to build pages and learn more stuff on my free time and non-free time also.</h3> -->
 
-<p>
+<!-- <p>
     <img src="https://komarev.com/ghpvc/?username=craniatech2021&label=Profile%20views&color=0e75b6&style=flat" alt="craniatech2021" />
     <a href="https://github.com/craniatech2021/"><img src="https://img.shields.io/github/followers/craniatech2021?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/craniatech2021?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="mailto:techcrania@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Crania :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
     <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
-</p>
+</p> -->
 
 <!-- <p align="left"> 
 <a href="https://twitter.com/CraniaTech" target="blank"><img src="https://img.shields.io/twitter/follow/CraniaTech?logo=twitter&style=for-the-badge" alt="CraniaTech" /></a>
