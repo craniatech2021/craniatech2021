@@ -170,9 +170,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craniatech2021&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="craniatech2021" height="195px"/></p>
 <br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark" alt="craniatech2021" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark" alt="craniatech2021" /></p>
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=dark)
 
-<!-- <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=craniatech2021&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" /> -->
+<h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=craniatech2021&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
