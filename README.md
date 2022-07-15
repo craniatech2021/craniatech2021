@@ -170,3 +170,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craniatech2021&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="craniatech2021" height="195px"/></p>
 <br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=craniatech2021&theme=flat&column=7" alt="craniatech2021" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
