@@ -12,6 +12,8 @@
     <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
 </p> -->
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=craniatech2021&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="craniatech2021" /></p>
+
 <!-- <p align="left"> 
 <a href="https://twitter.com/CraniaTech" target="blank"><img src="https://img.shields.io/twitter/follow/CraniaTech?logo=twitter&style=for-the-badge" alt="CraniaTech" /></a>
 <a href="https://www.linkedin.com/company/software-developer-group/"><img src="https://img.shields.io/badge/-crania%20tech-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
